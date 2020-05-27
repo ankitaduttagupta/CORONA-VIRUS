@@ -1,3 +1,5 @@
 
-Performed EDA on corona virus dataset,learnt Folium and calmap plotting ,gained significant insights about the spread of virus over the world
+## 1. Performed EDA on corona virus dataset
+## 2. Learnt Folium and calmap plotting 
+## 3. Gained significant insights about the spread of virus over the world
 
